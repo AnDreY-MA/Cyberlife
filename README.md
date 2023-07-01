@@ -1,4 +1,3 @@
 # Cyberlife
- 
-Game is Immersive sim \
- Developed on C++
+
+ Дизайн документ — https://docs.google.com/document/d/17TpJRHKrKkh7kTgKYQbS00KBVahdUdNztJnSehx80Rk/edit?usp=sharing
